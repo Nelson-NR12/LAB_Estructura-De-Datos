@@ -14,3 +14,4 @@ class CircularLinkedList:
 def is_empty(self):
     return self.head is None
 
+
